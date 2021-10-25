@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44328" started-at="2021-10-24T20:53:46 IST" finished-at="2021-10-24T20:54:30 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44328" started-at="2021-10-24T20:53:46 IST" finished-at="2021-10-24T20:54:30 IST">
+      <class name="testNgSamples.AccitimeSample">
+        <test-method status="PASS" signature="a_OpenBrowserAndAppURL()[pri:0, instance:testNgSamples.AccitimeSample@17030a6]" name="a_OpenBrowserAndAppURL" duration-ms="34879" started-at="2021-10-24T20:53:46 IST" finished-at="2021-10-24T20:54:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_OpenBrowserAndAppURL -->
+        <test-method status="PASS" signature="b_Login()[pri:0, instance:testNgSamples.AccitimeSample@17030a6]" name="b_Login" duration-ms="2357" started-at="2021-10-24T20:54:21 IST" finished-at="2021-10-24T20:54:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_Login -->
+        <test-method status="PASS" signature="d_Logout()[pri:0, instance:testNgSamples.AccitimeSample@17030a6]" name="d_Logout" duration-ms="6989" started-at="2021-10-24T20:54:23 IST" finished-at="2021-10-24T20:54:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d_Logout -->
+      </class> <!-- testNgSamples.AccitimeSample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
